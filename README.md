@@ -1,2 +1,2 @@
-# Life
-뭐하고 살아가는지
+# Hello i'm sangmin
+work for Banksalad as a backend engineer
